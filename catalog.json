@@ -4,147 +4,148 @@
     "version": "e6c3adc5"
   },
   "products": [
-  {
-    "id": "prod-e6c3adc5-001",
-    "name": "Basic Item 1",
-    "category": "clothing",
-    "price": 466.61,
-    "stock": 147,
-    "rating": 2.2
-  },
-  {
-    "id": "prod-e6c3adc5-002",
-    "name": "Basic Item 2",
-    "category": "home",
-    "price": 173.18,
-    "stock": 162,
-    "rating": 4.7
-  },
-  {
-    "id": "prod-e6c3adc5-003",
-    "name": "Pro Item 3",
-    "category": "clothing",
-    "price": 71.48,
-    "stock": 2,
-    "rating": 1.2
-  },
-  {
-    "id": "prod-e6c3adc5-004",
-    "name": "Standard Item 4",
-    "category": "sports",
-    "price": 203.73,
-    "stock": 32,
-    "rating": 1.9
-  },
-  {
-    "id": "prod-e6c3adc5-005",
-    "name": "Basic Item 5",
-    "category": "home",
-    "price": 423.38,
-    "stock": 149,
-    "rating": 1.3
-  },
-  {
-    "id": "prod-e6c3adc5-006",
-    "name": "Elite Item 6",
-    "category": "books",
-    "price": 222.82,
-    "stock": 195,
-    "rating": 3
-  },
-  {
-    "id": "prod-e6c3adc5-007",
-    "name": "Standard Item 7",
-    "category": "sports",
-    "price": 451.53,
-    "stock": 199,
-    "rating": 4.9
-  },
-  {
-    "id": "prod-e6c3adc5-008",
-    "name": "Basic Item 8",
-    "category": "home",
-    "price": 99.41,
-    "stock": 93,
-    "rating": 4.3
-  },
-  {
-    "id": "prod-e6c3adc5-009",
-    "name": "Standard Item 9",
-    "category": "home",
-    "price": 189.67,
-    "stock": 36,
-    "rating": 2.3
-  },
-  {
-    "id": "prod-e6c3adc5-010",
-    "name": "Basic Item 10",
-    "category": "home",
-    "price": 298.91,
-    "stock": 9,
-    "rating": 2.6
-  },
-  {
-    "id": "prod-e6c3adc5-011",
-    "name": "Pro Item 11",
-    "category": "electronics",
-    "price": 136.19,
-    "stock": 11,
-    "rating": 1.4
-  },
-  {
-    "id": "prod-e6c3adc5-012",
-    "name": "Basic Item 12",
-    "category": "electronics",
-    "price": 451.94,
-    "stock": 150,
-    "rating": 2.4
-  },
-  {
-    "id": "prod-e6c3adc5-013",
-    "name": "Pro Item 13",
-    "category": "sports",
-    "price": 401.08,
-    "stock": 0,
-    "rating": 1.3
-  },
-  {
-    "id": "prod-e6c3adc5-014",
-    "name": "Pro Item 14",
-    "category": "home",
-    "price": 146.25,
-    "stock": 71,
-    "rating": 2
-  },
-  {
-    "id": "prod-e6c3adc5-015",
-    "name": "Elite Item 15",
-    "category": "books",
-    "price": 245.26,
-    "stock": 79,
-    "rating": 2.1
-  },
-  {
-    "id": "prod-e6c3adc5-016",
-    "name": "Standard Item 16",
-    "category": "clothing",
-    "price": 316.2,
-    "stock": 72,
-    "rating": 4.6
-  },
-  {
-    "id": "prod-e6c3adc5-017",
-    "name": "Premium Item 17",
-    "category": "electronics",
-    "price": 162.21,
-    "stock": 78,
-    "rating": 3.8
-  }
-],
-  "aggregations": {
-    "books": {
-      "count": 2,
-      "inventoryValue": 62825.44
+    {
+      "id": "prod-e6c3adc5-001",
+      "name": "Basic Item 1",
+      "category": "clothing",
+      "price": 466.61,
+      "stock": 147,
+      "rating": 2.2
+    },
+    {
+      "id": "prod-e6c3adc5-002",
+      "name": "Basic Item 2",
+      "category": "home",
+      "price": 173.18,
+      "stock": 162,
+      "rating": 4.7
+    },
+    {
+      "id": "prod-e6c3adc5-003",
+      "name": "Pro Item 3",
+      "category": "clothing",
+      "price": 71.48,
+      "stock": 2,
+      "rating": 1.2
+    },
+    {
+      "id": "prod-e6c3adc5-004",
+      "name": "Standard Item 4",
+      "category": "sports",
+      "price": 203.73,
+      "stock": 32,
+      "rating": 1.9
+    },
+    {
+      "id": "prod-e6c3adc5-005",
+      "name": "Basic Item 5",
+      "category": "home",
+      "price": 423.38,
+      "stock": 149,
+      "rating": 1.3
+    },
+    {
+      "id": "prod-e6c3adc5-006",
+      "name": "Elite Item 6",
+      "category": "books",
+      "price": 222.82,
+      "stock": 195,
+      "rating": 3
+    },
+    {
+      "id": "prod-e6c3adc5-007",
+      "name": "Standard Item 7",
+      "category": "sports",
+      "price": 451.53,
+      "stock": 199,
+      "rating": 4.9
+    },
+    {
+      "id": "prod-e6c3adc5-008",
+      "name": "Basic Item 8",
+      "category": "home",
+      "price": 99.41,
+      "stock": 93,
+      "rating": 4.3
+    },
+    {
+      "id": "prod-e6c3adc5-009",
+      "name": "Standard Item 9",
+      "category": "home",
+      "price": 189.67,
+      "stock": 36,
+      "rating": 2.3
+    },
+    {
+      "id": "prod-e6c3adc5-010",
+      "name": "Basic Item 10",
+      "category": "home",
+      "price": 298.91,
+      "stock": 9,
+      "rating": 2.6
+    },
+    {
+      "id": "prod-e6c3adc5-011",
+      "name": "Pro Item 11",
+      "category": "electronics",
+      "price": 136.19,
+      "stock": 11,
+      "rating": 1.4
+    },
+    {
+      "id": "prod-e6c3adc5-012",
+      "name": "Basic Item 12",
+      "category": "electronics",
+      "price": 451.94,
+      "stock": 150,
+      "rating": 2.4
+    },
+    {
+      "id": "prod-e6c3adc5-013",
+      "name": "Pro Item 13",
+      "category": "sports",
+      "price": 401.08,
+      "stock": 0,
+      "rating": 1.3
+    },
+    {
+      "id": "prod-e6c3adc5-014",
+      "name": "Pro Item 14",
+      "category": "home",
+      "price": 146.25,
+      "stock": 71,
+      "rating": 2
+    },
+    {
+      "id": "prod-e6c3adc5-015",
+      "name": "Elite Item 15",
+      "category": "books",
+      "price": 245.26,
+      "stock": 79,
+      "rating": 2.1
+    },
+    {
+      "id": "prod-e6c3adc5-016",
+      "name": "Standard Item 16",
+      "category": "clothing",
+      "price": 316.2,
+      "stock": 72,
+      "rating": 4.6
+    },
+    {
+      "id": "prod-e6c3adc5-017",
+      "name": "Premium Item 17",
+      "category": "electronics",
+      "price": 162.21,
+      "stock": 78,
+      "rating": 3.8
     }
+  ],
+  "aggregations": {
+    "books": { "count": 2, "inventoryValue": 62825.44 },
+    "clothing": { "count": 3, "inventoryValue": 92069.18 },
+    "home": { "count": 5, "inventoryValue": 140636.18 },
+    "sports": { "count": 3, "inventoryValue": 97007.61 },
+    "electronics": { "count": 3, "inventoryValue": 82886.59 }
   }
 }
