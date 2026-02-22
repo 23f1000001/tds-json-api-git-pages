@@ -4,29 +4,143 @@
     "version": "e6c3adc5"
   },
   "products": [
-    { "id": 1, "name": "Book A", "category": "books", "price": 100.00, "stock": 200, "rating": 4.5 },
-    { "id": 2, "name": "Book B", "category": "books", "price": 2141.272, "stock": 20, "rating": 4.0 },
-
-    { "id": 3, "name": "Laptop X", "category": "electronics", "price": 1200, "stock": 5, "rating": 4.6 },
-    { "id": 4, "name": "Mouse", "category": "electronics", "price": 25, "stock": 100, "rating": 4.2 },
-    { "id": 5, "name": "Keyboard", "category": "electronics", "price": 75, "stock": 50, "rating": 4.3 },
-    { "id": 6, "name": "Phone", "category": "electronics", "price": 800, "stock": 10, "rating": 4.4 },
-
-    { "id": 7, "name": "Shirt", "category": "clothing", "price": 40, "stock": 60, "rating": 4.1 },
-    { "id": 8, "name": "Jeans", "category": "clothing", "price": 70, "stock": 40, "rating": 4.2 },
-    { "id": 9, "name": "Jacket", "category": "clothing", "price": 120, "stock": 30, "rating": 4.5 },
-
-    { "id": 10, "name": "Table", "category": "furniture", "price": 300, "stock": 8, "rating": 4.3 },
-    { "id": 11, "name": "Chair", "category": "furniture", "price": 150, "stock": 20, "rating": 4.0 },
-    { "id": 12, "name": "Lamp", "category": "furniture", "price": 60, "stock": 35, "rating": 4.1 },
-
-    { "id": 13, "name": "Pen", "category": "stationery", "price": 5, "stock": 500, "rating": 4.0 },
-    { "id": 14, "name": "Notebook", "category": "stationery", "price": 15, "stock": 200, "rating": 4.2 },
-    { "id": 15, "name": "Marker", "category": "stationery", "price": 8, "stock": 150, "rating": 4.1 },
-
-    { "id": 16, "name": "Bottle", "category": "home", "price": 20, "stock": 100, "rating": 4.3 },
-    { "id": 17, "name": "Clock", "category": "home", "price": 45, "stock": 25, "rating": 4.4 }
-  ],
+  {
+    "id": "prod-e6c3adc5-001",
+    "name": "Basic Item 1",
+    "category": "clothing",
+    "price": 466.61,
+    "stock": 147,
+    "rating": 2.2
+  },
+  {
+    "id": "prod-e6c3adc5-002",
+    "name": "Basic Item 2",
+    "category": "home",
+    "price": 173.18,
+    "stock": 162,
+    "rating": 4.7
+  },
+  {
+    "id": "prod-e6c3adc5-003",
+    "name": "Pro Item 3",
+    "category": "clothing",
+    "price": 71.48,
+    "stock": 2,
+    "rating": 1.2
+  },
+  {
+    "id": "prod-e6c3adc5-004",
+    "name": "Standard Item 4",
+    "category": "sports",
+    "price": 203.73,
+    "stock": 32,
+    "rating": 1.9
+  },
+  {
+    "id": "prod-e6c3adc5-005",
+    "name": "Basic Item 5",
+    "category": "home",
+    "price": 423.38,
+    "stock": 149,
+    "rating": 1.3
+  },
+  {
+    "id": "prod-e6c3adc5-006",
+    "name": "Elite Item 6",
+    "category": "books",
+    "price": 222.82,
+    "stock": 195,
+    "rating": 3
+  },
+  {
+    "id": "prod-e6c3adc5-007",
+    "name": "Standard Item 7",
+    "category": "sports",
+    "price": 451.53,
+    "stock": 199,
+    "rating": 4.9
+  },
+  {
+    "id": "prod-e6c3adc5-008",
+    "name": "Basic Item 8",
+    "category": "home",
+    "price": 99.41,
+    "stock": 93,
+    "rating": 4.3
+  },
+  {
+    "id": "prod-e6c3adc5-009",
+    "name": "Standard Item 9",
+    "category": "home",
+    "price": 189.67,
+    "stock": 36,
+    "rating": 2.3
+  },
+  {
+    "id": "prod-e6c3adc5-010",
+    "name": "Basic Item 10",
+    "category": "home",
+    "price": 298.91,
+    "stock": 9,
+    "rating": 2.6
+  },
+  {
+    "id": "prod-e6c3adc5-011",
+    "name": "Pro Item 11",
+    "category": "electronics",
+    "price": 136.19,
+    "stock": 11,
+    "rating": 1.4
+  },
+  {
+    "id": "prod-e6c3adc5-012",
+    "name": "Basic Item 12",
+    "category": "electronics",
+    "price": 451.94,
+    "stock": 150,
+    "rating": 2.4
+  },
+  {
+    "id": "prod-e6c3adc5-013",
+    "name": "Pro Item 13",
+    "category": "sports",
+    "price": 401.08,
+    "stock": 0,
+    "rating": 1.3
+  },
+  {
+    "id": "prod-e6c3adc5-014",
+    "name": "Pro Item 14",
+    "category": "home",
+    "price": 146.25,
+    "stock": 71,
+    "rating": 2
+  },
+  {
+    "id": "prod-e6c3adc5-015",
+    "name": "Elite Item 15",
+    "category": "books",
+    "price": 245.26,
+    "stock": 79,
+    "rating": 2.1
+  },
+  {
+    "id": "prod-e6c3adc5-016",
+    "name": "Standard Item 16",
+    "category": "clothing",
+    "price": 316.2,
+    "stock": 72,
+    "rating": 4.6
+  },
+  {
+    "id": "prod-e6c3adc5-017",
+    "name": "Premium Item 17",
+    "category": "electronics",
+    "price": 162.21,
+    "stock": 78,
+    "rating": 3.8
+  }
+],
   "aggregations": {
     "books": {
       "count": 2,
